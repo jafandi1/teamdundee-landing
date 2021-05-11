@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/teamdundee-landing/static/css/main.d7fb5c53.chunk.css",
+    "main.js": "/teamdundee-landing/static/js/main.d2eadaae.chunk.js",
+    "main.js.map": "/teamdundee-landing/static/js/main.d2eadaae.chunk.js.map",
+    "runtime-main.js": "/teamdundee-landing/static/js/runtime-main.eab6633a.js",
+    "runtime-main.js.map": "/teamdundee-landing/static/js/runtime-main.eab6633a.js.map",
+    "static/css/2.61526bb2.chunk.css": "/teamdundee-landing/static/css/2.61526bb2.chunk.css",
+    "static/js/2.d4834651.chunk.js": "/teamdundee-landing/static/js/2.d4834651.chunk.js",
+    "static/js/2.d4834651.chunk.js.map": "/teamdundee-landing/static/js/2.d4834651.chunk.js.map",
+    "static/js/3.c3c50ab3.chunk.js": "/teamdundee-landing/static/js/3.c3c50ab3.chunk.js",
+    "static/js/3.c3c50ab3.chunk.js.map": "/teamdundee-landing/static/js/3.c3c50ab3.chunk.js.map",
+    "index.html": "/teamdundee-landing/index.html",
+    "static/css/2.61526bb2.chunk.css.map": "/teamdundee-landing/static/css/2.61526bb2.chunk.css.map",
+    "static/css/main.d7fb5c53.chunk.css.map": "/teamdundee-landing/static/css/main.d7fb5c53.chunk.css.map",
+    "static/js/2.d4834651.chunk.js.LICENSE.txt": "/teamdundee-landing/static/js/2.d4834651.chunk.js.LICENSE.txt",
+    "static/media/Welcome.css": "/teamdundee-landing/static/media/rowersRowing.07810dc7.jpg",
+    "static/media/ca1.32ec46f0.png": "/teamdundee-landing/static/media/ca1.32ec46f0.png",
+    "static/media/ex-graph.0a33d55a.png": "/teamdundee-landing/static/media/ex-graph.0a33d55a.png",
+    "static/media/gc1.5656cee0.png": "/teamdundee-landing/static/media/gc1.5656cee0.png",
+    "static/media/ja1.b3eb88ad.png": "/teamdundee-landing/static/media/ja1.b3eb88ad.png",
+    "static/media/jp1.0be70a03.png": "/teamdundee-landing/static/media/jp1.0be70a03.png",
+    "static/media/lightbulb-icon.bbc7c7b3.png": "/teamdundee-landing/static/media/lightbulb-icon.bbc7c7b3.png",
+    "static/media/upload-icon.45aa0ac2.png": "/teamdundee-landing/static/media/upload-icon.45aa0ac2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab6633a.js",
+    "static/css/2.61526bb2.chunk.css",
+    "static/js/2.d4834651.chunk.js",
+    "static/css/main.d7fb5c53.chunk.css",
+    "static/js/main.d2eadaae.chunk.js"
+  ]
+}
