@@ -1,6 +1,5 @@
 import React from "react";
-import { Button, Row, Col, Card } from "react-bootstrap";
-import { Link } from "react-router-dom";
+import { Button, Row, Col } from "react-bootstrap";
 
 import "./Welcome.css";
 
@@ -28,6 +27,13 @@ const LandingPg = () => {
           <Col className="center">
             <h1>See more. Do more.</h1>
             <h4>Transform your training through data.</h4>
+            <div className="center">
+              <a href="http://dundee.capstone.ischool.uw.edu/#/createacct">
+                <Button id="signUp" variant="primary">
+                  Sign up Today
+                </Button>
+              </a>
+            </div>
           </Col>
         </Row>
       </div>
@@ -56,7 +62,7 @@ const LandingPg = () => {
           <h1>Transform your training through data</h1>
           <Row className="howToText" xs={1} sm={1} md={3} lg={3} xl={3}>
             <Col>
-              <img className="howToPics" src={upload}></img>
+              <img className="howToPics" alt="upload icon" src={upload}></img>
               <h2>Upload</h2>
               <p>
                 Upload your training data onto our secure platform quickly and
@@ -64,14 +70,14 @@ const LandingPg = () => {
               </p>
             </Col>
             <Col>
-              <img className="howToPics" src={graph}></img>
+              <img className="howToPics" alt="graph icon"src={graph}></img>
               <h2>Visualize</h2>
               <p>
                 Visualize your data using interactive graphs. No more excel!
               </p>
             </Col>
             <Col>
-              <img className="howToPics" src={lightbulb}></img>
+              <img className="howToPics" alt="lightbulb icon" src={lightbulb}></img>
               <h2>Learn</h2>
               <p>
                 Gain insights from our visualizations to help inform your
@@ -104,7 +110,7 @@ const LandingPg = () => {
             </p>
           </Col>
           <Col>
-            <img id="exGraph" src={exGraph} />
+            <img id="exGraph" alt="example graph" src={exGraph} />
           </Col>
         </Row>
       </div>
@@ -161,22 +167,22 @@ const LandingPg = () => {
           <h1>Our Team</h1>
           <Row className="center" xs={1} sm={1} md={2} lg={4} xl={4}>
             <Col className="spacingVert">
-              <img className="faces" src={gc}></img>
+              <img className="faces" alt="gideon headshot" src={gc}></img>
               <h2>Gideon Chia</h2>
               <p>Product Manager</p>
             </Col>
             <Col className="spacingVert">
-              <img className="faces" src={ca}></img>
+              <img className="faces" alt="cameron headshot" src={ca}></img>
               <h2>Cameron Astor</h2>
               <p>Back End Developer</p>
             </Col>
             <Col className="spacingVert">
-              <img className="faces" src={jp}></img>
+              <img className="faces" alt="jenna headshot" src={jp}></img>
               <h2>Jenna Phillips</h2>
               <p>UX and Graphic Designer</p>
             </Col>
             <Col className="spacingVert">
-              <img className="faces" src={ja}></img>
+              <img className="faces" alt="jocelyn headshot" src={ja}></img>
               <h2>Jocelyn Afandi</h2>
               <p>UX and Front End Developer</p>
             </Col>

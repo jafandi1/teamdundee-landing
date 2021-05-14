@@ -53,3 +53,15 @@ p {
   padding: 1rem 15vh 5vh 15vh;
   background-color: #EFEFEF;
 }
+
+.btn-primary {
+  color:white;
+  background-color: #AC9C70;
+  border-color:#AC9C70;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary, .btn-primary:disabled, .btn-primary.disabled {
+  color:white;
+  background-color:#85754d !important;
+  border-color:#85754d
+}
