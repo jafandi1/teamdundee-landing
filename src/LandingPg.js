@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Row, Col } from "react-bootstrap";
+import { Row, Col } from "react-bootstrap";
 
 import "./Welcome.css";
 
@@ -27,13 +27,6 @@ const LandingPg = () => {
           <Col className="center">
             <h1>See more. Do more.</h1>
             <h4>Transform your training through data.</h4>
-            <div className="center">
-              <a href="http://dundee.capstone.ischool.uw.edu/#/createacct">
-                <Button id="signUp" variant="primary">
-                  Sign up Today
-                </Button>
-              </a>
-            </div>
           </Col>
         </Row>
       </div>

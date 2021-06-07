@@ -1,5 +1,5 @@
 import React from "react";
-import {Navbar, Nav, Button} from 'react-bootstrap';
+import {Navbar, Nav} from 'react-bootstrap';
 
 import logo from './imgs/W-Logo_Purple_Hex.png';
 
@@ -21,11 +21,6 @@ const NavbarPreLogin = () => {
           <Nav.Link><HashLink to="/#whatWeDid" className="navLink">What We Did</HashLink></Nav.Link>
           <Nav.Link><HashLink to="/#users" className="navLink">Our Goal</HashLink></Nav.Link>
           <Nav.Link><HashLink to="/#aboutus" className="navLink">Our Team</HashLink></Nav.Link>
-        </Nav>
-        <Nav className="ml-auto">
-            <a href="http://dundee.capstone.ischool.uw.edu/#/">
-              <Button variant="primary">Login</Button>
-            </a>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
