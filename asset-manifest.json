@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/teamdundee-landing/static/css/main.21a12059.chunk.css",
-    "main.js": "/teamdundee-landing/static/js/main.8a7a6721.chunk.js",
-    "main.js.map": "/teamdundee-landing/static/js/main.8a7a6721.chunk.js.map",
-    "runtime-main.js": "/teamdundee-landing/static/js/runtime-main.b70a6db5.js",
-    "runtime-main.js.map": "/teamdundee-landing/static/js/runtime-main.b70a6db5.js.map",
+    "main.js": "/teamdundee-landing/static/js/main.397e4099.chunk.js",
+    "main.js.map": "/teamdundee-landing/static/js/main.397e4099.chunk.js.map",
+    "runtime-main.js": "/teamdundee-landing/static/js/runtime-main.eab6633a.js",
+    "runtime-main.js.map": "/teamdundee-landing/static/js/runtime-main.eab6633a.js.map",
     "static/css/2.61526bb2.chunk.css": "/teamdundee-landing/static/css/2.61526bb2.chunk.css",
-    "static/js/2.145ada4c.chunk.js": "/teamdundee-landing/static/js/2.145ada4c.chunk.js",
-    "static/js/2.145ada4c.chunk.js.map": "/teamdundee-landing/static/js/2.145ada4c.chunk.js.map",
-    "static/js/3.b16e03aa.chunk.js": "/teamdundee-landing/static/js/3.b16e03aa.chunk.js",
-    "static/js/3.b16e03aa.chunk.js.map": "/teamdundee-landing/static/js/3.b16e03aa.chunk.js.map",
+    "static/js/2.22d735a5.chunk.js": "/teamdundee-landing/static/js/2.22d735a5.chunk.js",
+    "static/js/2.22d735a5.chunk.js.map": "/teamdundee-landing/static/js/2.22d735a5.chunk.js.map",
+    "static/js/3.c3c50ab3.chunk.js": "/teamdundee-landing/static/js/3.c3c50ab3.chunk.js",
+    "static/js/3.c3c50ab3.chunk.js.map": "/teamdundee-landing/static/js/3.c3c50ab3.chunk.js.map",
     "index.html": "/teamdundee-landing/index.html",
     "static/css/2.61526bb2.chunk.css.map": "/teamdundee-landing/static/css/2.61526bb2.chunk.css.map",
     "static/css/main.21a12059.chunk.css.map": "/teamdundee-landing/static/css/main.21a12059.chunk.css.map",
-    "static/js/2.145ada4c.chunk.js.LICENSE.txt": "/teamdundee-landing/static/js/2.145ada4c.chunk.js.LICENSE.txt",
+    "static/js/2.22d735a5.chunk.js.LICENSE.txt": "/teamdundee-landing/static/js/2.22d735a5.chunk.js.LICENSE.txt",
     "static/media/Welcome.css": "/teamdundee-landing/static/media/rowersRowing.07810dc7.jpg",
     "static/media/ca1.32ec46f0.png": "/teamdundee-landing/static/media/ca1.32ec46f0.png",
     "static/media/ex-graph.0a33d55a.png": "/teamdundee-landing/static/media/ex-graph.0a33d55a.png",
@@ -24,10 +24,10 @@
     "static/media/upload-icon.45aa0ac2.png": "/teamdundee-landing/static/media/upload-icon.45aa0ac2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b70a6db5.js",
+    "static/js/runtime-main.eab6633a.js",
     "static/css/2.61526bb2.chunk.css",
-    "static/js/2.145ada4c.chunk.js",
+    "static/js/2.22d735a5.chunk.js",
     "static/css/main.21a12059.chunk.css",
-    "static/js/main.8a7a6721.chunk.js"
+    "static/js/main.397e4099.chunk.js"
   ]
 }
